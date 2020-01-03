@@ -3,3 +3,8 @@
 require_relative "../guessing_game_cli"
 
 run_guessing_game
+
+gets random_number_generator = ["1"], ["2], ["3], ["4"], ["5"], ["6"]
+
+rand(1...6)
+>1
